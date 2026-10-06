@@ -1,0 +1,95 @@
+ body {
+
+  background: white; 
+
+ color: white;
+
+  font-size: 15px;
+
+ background-image: url("wallhaven-3z9m8y.png");
+
+ text-align: center;
+
+ padding-top: 100px;
+
+ font-family: "Montserrat";
+
+}
+
+body::before {
+
+
+ content: "";
+
+ position: fixed;
+
+ inset: 0;
+
+ background-image: url("wallhaven-3z9m8y.png");
+
+background-size: cover;
+
+ filter: blur(5px);
+
+ z-index: -1;
+
+}
+
+.text {
+
+ font-size: 50px;
+
+  
+
+ font-family: "Montserrat";
+
+background:linear-gradient(to right, grey, darkmagenta);
+
+ background-clip: text;
+
+ -webkit-background-clip: text;
+
+color: transparent;
+
+}
+
+  .perfil img {
+
+  width: 100px;
+
+
+}
+
+
+ 
+
+
+
+ h1 {
+
+  background: linear-gradient(to right, grey , DarkMagenta);
+
+ background-clip: text;
+
+ color: transparent;
+
+}
+@font-face {
+
+    font-family: "Montserrat" ;
+
+   src: url("Montserrat-VariableFont_wght.ttf") format("truetype");
+
+}
+
+
+img {
+
+ position: relative;
+
+ top: -40px;
+
+ left: 20px;
+
+}
+
