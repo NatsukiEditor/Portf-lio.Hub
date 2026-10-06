@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+
+  <link rel="stylesheet" href="portfólio.css">
+
+  <title>Portfólio</title>
+
+
+  
+
+</head>
+
+<body>
+ 
+     
+  
+  <a href="https://github.com/NatsukiEditor/Portf-lio.Hub"> PortfólioGit</a>
+
+ <a href="https://portfólio.github.io/PortfólioHub/"> Ver portfólio</a>
+
+
+    <h1>Olá, me chamo Natsuki, eu sou um programador iniciante e sou editor tbm, qualquer coisa, me chame no discord, 'carloseduard10"</h1>
+
+   <div class="text">
+
+  <p> eu sirvo mais para projetos simples e pra criar a interface simples do site </p>
+
+
+
+
+
+  <div class="foto de perfil">
+
+  <img src="Sukuna.png" alt="foto de perfil">
+
+
+</div>
+
+
+
+
+
+
+</div>
+
+</body>
+
+
+
+
+</html>
+
+
+ 
